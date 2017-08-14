@@ -1,0 +1,14 @@
+[
+	{"file": "src/bg.png", "align":"bg", "offsetX":0, "offsetY":0},
+
+	{"file": "src/tl.png", "align":"tl", "offsetX":0, "offsetY":0},
+	{"file": "src/tr.png", "align":"tr", "offsetX":0, "offsetY":0},
+	{"file": "src/bl.png", "align":"bl", "offsetX":0, "offsetY":0},
+	{"file": "src/br.png", "align":"br", "offsetX":0, "offsetY":0},
+	
+	{"file": "src/t.png", "align":"t", "offsetX":0, "offsetY":0, "scaleX": 0.6, "scaleY": 0.6},
+	{"file": "src/l.png", "align":"l", "offsetX":0, "offsetY":0, "scaleX": 0.6, "scaleY": 0.6},
+	{"file": "src/r.png", "align":"r", "offsetX":0, "offsetY":0, "scaleX": 0.6, "scaleY": 0.6},
+	{"file": "src/b.png", "align":"b", "offsetX":0, "offsetY":0, "scaleX": 0.6, "scaleY": 0.6},
+	{"file": "src/c.png", "align":"c", "offsetX":10, "offsetY":0, "scaleX": 0.9, "scaleY": 0.9}
+]
